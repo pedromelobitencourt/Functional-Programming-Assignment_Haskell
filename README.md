@@ -2,6 +2,8 @@
 
 Welcome to the functional programming assignment! This assignment is designed to help you practice fundamental concepts of functional programming using Haskell. You will be working on solving the following problems:
 
+## Problems Statements
+
 1) Define a recursive function to calculate the power of two integers, where the first number is raised to the power of the second. Do not use the exponentiation operator (^). (potencia.hs)
 
   Ex.: > potencia 2 3
