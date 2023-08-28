@@ -4,6 +4,10 @@ Welcome to the functional programming assignment! This assignment is designed to
 
 1) Define a recursive function to calculate the power of two integers, where the first number is raised to the power of the second. Do not use the exponentiation operator (^). (potencia.hs)
 
+Ex.: > potencia 2 3 -- 8=2*2*2
+
+8
+
 2) Calculate the sum of the odd elements in a list of integers. (somaImpares.hs)
 
 3) Replace all occurrences of a specific value in a list of integers with another value. (substituir.hs)
