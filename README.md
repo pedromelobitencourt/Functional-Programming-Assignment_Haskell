@@ -31,10 +31,6 @@ Welcome to the functional programming assignment! This assignment is designed to
   Ex.: > primo 17
   
    True
-  
- > primo 0
-  
-   False
 
 ---
 
@@ -59,10 +55,6 @@ Welcome to the functional programming assignment! This assignment is designed to
   Ex.: > distintos [1,2,4,2,5]
   
    False
-  
-  > distintos [3,2,1]
-  
-   True
 
 ---
 
