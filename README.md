@@ -94,6 +94,8 @@ Welcome to the functional programming assignment! This assignment is designed to
   
    [1,2,5,7,9,10,20,25]
 
+---
+
 15) Develop a solution for an ATM kiosk that dispenses the minimum number of bills of denominations R$1, R$5, R$10, R$50, and R$100 for a given amount, from the smallest to the largest denomination. (trocar.hs)
 
   Ex.: > trocar 162
